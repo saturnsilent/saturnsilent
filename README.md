@@ -98,10 +98,7 @@
 
 
 
-<h2>📪 Contact me</h2>
-<p>
-<a target="_blank" href="https://www.instagram.com/abz_weis/" target="_blank" style="display: inline-block;">
-<img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" />
-</a>
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/https://www.instagram.com/abz_weis/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/abz_weis/" height="30" width="40" /></a>
 </p>
