@@ -6,7 +6,7 @@
 <h1>Hi 👋, I'm Saturn</h1>
 
 <p>A passionate frontend developer from France</p>
-<h2> FiveM & Gmod <h2>
+FiveM & Gmod 
   
 <h2>🛠 Skills</h2>
 <p>
