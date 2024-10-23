@@ -6,8 +6,8 @@
 <h1>Hi 👋, I'm Saturn</h1>
 
 <p>A passionate frontend developer from France</p>
-<h2W> FiveM & Gmod <h2W>
-  [![](https://img.shields.io/badge/-Lua-000080?style=flat-square&logo=lua&logoColor=fff)](https://fr.wikipedia.org/wiki/Garry%27s_Mod)
+<h2> FiveM & Gmod <h2>
+  
 <h2>🛠 Skills</h2>
 <p>
 
